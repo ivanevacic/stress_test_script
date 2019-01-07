@@ -1,0 +1,14 @@
+{
+    "name" : "live20/agentstresstest",
+    "description" : "LIVE 2.0 Agent Stress Test",
+    "type" : "project",
+    "require" : {
+    },
+    "require-dev" : {
+        "ratchet/pawl": "^0.3.2"
+    },
+    "prefer-stable" : true,
+    "config" : {
+        "secure-http" : false
+    }
+}
